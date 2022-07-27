@@ -15,4 +15,4 @@ Rule #2: Fulfill the below user stories. Use whichever libraries or APIs you nee
 
 ### My Work
 
-[work](link)
+[work](https://github.com/Noice1909/JavaScriptCalculator/blob/8d3ed828fdc1b7303943a2c7c13c505c76983f74/CC.png)
