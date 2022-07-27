@@ -1,5 +1,5 @@
 
-###Objectives
+### Objectives
 
 Build an app that is functionally similar to this: https://codepen.io/FreeCodeCamp/full/rLJZrA/.
 
@@ -13,6 +13,6 @@ Rule #2: Fulfill the below user stories. Use whichever libraries or APIs you nee
 - I can keep chaining mathematical operations together until I hit the equal button, and the calculator will tell me the correct output.
 
 
-###My Work
+### My Work
 
 [work](link)
